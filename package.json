@@ -1,0 +1,9 @@
+{
+    "name": "run.js",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "chalk": "^2.4.1",
+        "lodash": "^4.17.11"
+    }
+}
